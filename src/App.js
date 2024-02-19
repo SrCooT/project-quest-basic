@@ -1,6 +1,7 @@
 import './App.css';
-
+import Button from './components/button/button';
 import Modify from './components/text/mainText';
+
 
 function App() {
   return (
@@ -8,6 +9,8 @@ function App() {
       <div>
 
         <Modify />
+        <Button />
+
 
       </div>
     </>

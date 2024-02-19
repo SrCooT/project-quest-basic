@@ -25,7 +25,9 @@ div{
 
 .card-clicked {
         text-transform: uppercase;
+        color: black;
     }
 .card-clicked1{
     text-transform: lowercase;
+    color: aliceblue;
 }
